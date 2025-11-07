@@ -10,7 +10,7 @@ This analytical initiative is focused on leveraging **3,500 transactional record
 | **Total Revenue** | **$209K** | Overall portfolio performance baseline. |
 | **Active Customers** | **3.5K** | The size of the consumer base analyzed. |
 | **Avg. Purchase Amount** | **$59.71** | Used as the benchmark for segment performance. |
-| **Subscription Status** | Yes: 30.09% | A key focus area for loyalty-based monetization. |
+| **Subscription Status** | **30.09%** | A key focus area for loyalty-based monetization. |
 
 ---
 
@@ -55,7 +55,7 @@ Based on the SQL query results, the following actions are the most impactful for
 
 Here is a visual overview of the final Power BI dashboard for the Customer Shopping Trend Analysis:
 
-\[Insert your dashboard image here using Markdown format: `![Dashboard Main View](path/to/your/image.png)`]
+![Customer Trend Analysis Dashboard](https://raw.githubusercontent.com/Sahabaz-Khan/Customer-Shopping-Trend-Analysis/main/Image/Customer%20Trend%20Dashboard.png)
 
 ---
 ## 📁 Repository Structure
@@ -75,5 +75,6 @@ The project files are organized into functional folders for clarity and professi
 
 
 ## 📜 License
+
 
 This project is open-source and released under the **MIT License**.
